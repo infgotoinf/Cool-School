@@ -1,1 +1,34 @@
-a
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 15px;
+  text-shadow:-10px 10px 10px rgba(255, 255, 255, 0.5);
+  background-image: "static/assets/logo.png";
+}
+h2 {
+  margin-top: 40px;
+  margin-bottom: 15px;
+  font-size: 40px;
+}
+p {
+  font-size: 20px;
+}
+button {
+  font-size: 20px;
+}
+img {
+  border: 4px solid white;
+  margin-bottom: -15px;
+}
+
+.logo {
+  align-self: center;
+  margin-bottom: 20px;
+}
+.review {
+  margin-bottom: 40px;
+}
